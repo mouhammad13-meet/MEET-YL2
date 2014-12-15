@@ -1,0 +1,21 @@
+#welcome :{color: blue;font-size:60px;
+	margin-bottom:10px;
+	margin-top: 5px;
+}
+a :{
+    display: block;
+    width: 60px;
+}
+#p: {color: blue;font-size:40px}
+#w :{color: blue;font-size:30px}
+#m :{color: blue; font-size:65px}
+body: { background-image:url(http://img0.gtsstatic.com/wallpapers/84aa2a05d282b4c77001ac7500cc4189_large.jpeg);
+	background-size: 100%
+	}
+#line: {margin-top: 8px; 
+}
+#div: {float:left; margin-top:200px;position: absolute;}
+#div: li{margin-bottom: 50px
+	
+}
+#d2: {; margin-left:150px; }
